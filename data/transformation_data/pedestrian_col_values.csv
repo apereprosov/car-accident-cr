@@ -1,0 +1,35 @@
+﻿column;value;description;wider
+p29;1;muž;
+p29;2;žena;
+p29;3;dítě (do 15 let);
+p29;4;skupina dětí;
+p29;5;jiná skupina;
+p30;1;dobrý ;žádné nepříznivé okolnosti nebyly zjištěny
+p30;2;nepozornost, roztržitost;
+p30;3;pod vlivem léků, narkotik;
+p30;4;pod vlivem alkoholu;obsah alkoholu v krvi do 0,99 ‰
+p30;5;fyzická indispozice ;(nemoc, nevolnost, snížená pohyblivost apod.)
+p30;6;pokus o sebevraždu, sebevražda;
+p30;7;invalida;
+p30;8;jiný neuvedený stav;
+p30;9;pod vlivem alkoholu;obsah alkoholu v krvi 1 ‰ a více
+p30;0;nezjištěno;
+p31;1;správné, přiměřené ;
+p31;2;špatný odhad vzdálenosti a rychlosti vozidla;
+p31;3;náhlé vstoupení do vozovky; z chodníku, krajnice
+p31;4;náhlé vstoupení do vozovky ; z nástupního nebo dělícího ostrůvku
+p31;5;zmatené, zbrklé , nerozhodné jednání ;
+p31;6;náhlá změna směru chůze;
+p31;7;náraz do vozidla z boku;
+p31;8;hra dětí na vozovce;
+p32;1;vstup chodce;na signál VOLNO
+p32;2;vstup chodce;na signál STŮJ
+p32;3;vstup chodce;do vozovky v blízkosti přechodu (cca do 20 m)
+p32;4;přecházení;po vyznačeném přechodu
+p32;5;přecházení ;těsně před nebo za vozidlem stojícím v zastávce
+p32;6;přecházení ;těsně před nebo za vozidlem parkujícím
+p32;7;chůze,;stání na chodníku
+p32;8;chůze;po správné straně
+p32;9;chůze ;po nesprávné straně
+p32;10;přecházení ;mimo přechod (20 a více metrů od přechodu)
+p32;0;jiná situace;

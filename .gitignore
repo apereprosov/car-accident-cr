@@ -1,0 +1,5 @@
+/.ipynb_checkpoints
+/ipynb/__pycache__
+/ipynb/.ipynb_checkpoints
+/ipynb/config.py
+/docker/jupyter/.ipynb_checkpoints

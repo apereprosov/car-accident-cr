@@ -1,0 +1,564 @@
+Formuláø DN;Poloka;Popis;Bliší definice
+p5a;1;v obci;
+p5a;2;mimo obec;
+p6;1;sráka;s jedoucím nekolejovım vozidlem
+p6;2;sráka;s vozidlem zaparkovanım, odstavenım
+p6;3;sráka;s pevnou pøekákou
+p6;4;sráka;s chodcem
+p6;5;sráka;s lesní zvìøí
+p6;6;sráka;s domácím zvíøetem
+p6;7;sráka ;s vlakem
+p6;8;sráka;s tramvají
+p6;9;havárie;
+p6;0;jinı druh nehody;
+p7;1;èelní;
+p7;2;boèní;
+p7;3;z boku;
+p7;4;zezadu;
+p7;0;nepøichází v úvahu;nejedná se o sráku jedoucích vozidel
+p8;1;strom;
+p8;2;sloup;telefonní, veøejného osvìtlení, elektrického vedení, signalizace apod. 
+p8;3;odrazník, patník,;sloupek smìrovı, sloupek dopravní znaèky apod. 
+p8;4;svodidlo;
+p8;5;pøekáka vzniklá provozem jiného vozidla;(napø. ztráta náikladu , vıstroje vozidla nebo jeho èásti)
+p8;6;zeï, pevná èást mostù, ;podjezdù, tunelù apod. 
+p8;7;závory eleznièního pøejezdu;
+p8;8;pøekáka vzniklá stavební èinností;(pøenosné dopravní znaèky, hromada štìrku, písku nebo jiného stavebního materiálu apod.)
+p8;9;jiná pøekáka;(zábradlí, oplocení, násep, nástupní ostrùvek apod.)
+p8;0;nepøíchází v úvahu;nejedná se o sráku s pevnou pøekákou
+p8a;1;srna, srnec;
+p8a;2;jelen, laò;
+p8a;3;danìk;
+p8a;4;muflon;
+p8a;5;zajíc;
+p8a;6;baant;
+p8a;7;divoké prase;
+p8a;8;liška;
+p8a;9;sob;
+p8a;10;vlk;
+p8a;11;medvìd;
+p8a;12;jiná zvìø;
+p8a;13;vepø;
+p8a;14;kráva, tele;
+p8a;15;kùò;
+p8a;16;koza;
+p8a;17;ovce;
+p8a;18;pes;
+p8a;19;koèka;
+p8a;20;slepice, kohout;
+p8a;21;kachna, husa;
+p8a;22;jiné zvíøe;
+p8a;0;nejde o sráku se zvìøí/zvíøetem;
+p9;1;nehoda;s následky na ivotì
+p9;2;nehoda;pouze s hmotnou škodou
+p10;1;øidièem;motorového vozidla
+p10;2;øidièem;nemotorového vozidla
+p10;3;chodcem;
+p10;4;lesní zvìøí, domácím zvíøectvem;
+p10;5;jinım úèastníkem silnièního provozu;
+p10;6;závadou komunikace;
+p10;7;technickou závadou vozidla;
+p10;0;jiné zavinìní;
+p11;1;ano;obsah alkoholu v krvi do 0,24 ‰
+p11;2;ne;
+p11;3;ano;obsah alkoholu v krvi od 0,24 ‰ do 0,5 ‰
+p11;4;odmítnuto;
+p11;5;;
+p11;6;ano;obsah alkoholu v krvi od 0,5 ‰ do 0,8 ‰
+p11;7;ano;obsah alkoholu v krvi od 0,8 ‰ do 1,0 ‰
+p11;8;ano;obsah alkoholu v krvi od 1,0 ‰ do 1,5 ‰
+p11;9;ano;obsah alkoholu v krvi 1,5 ‰ a více
+p11;0;nezjišováno;
+p11a;1;THC (tetrahydrokanabinol);
+p11a;2;AMP (amfetamin);
+p11a;3;MET (metamfetamin);
+p11a;4;OPI (opiáty);
+p11a;5;benzodiazepin;
+p11a;6;jiné;
+p11a;7;odmítnuto;
+p11a;8;nezjišováno;
+p11a;0;ne;
+p12;100;nezavinìná øidièem;
+p12;201-209;nepøimìøená rychlost jízdy;
+p12;301-311;nesprávné pøedjídìní;
+p12;401-414;nedání pøednosti v jízdì;
+p12;501-516;nesprávnı zpùsob jízdy;
+p12;601-615;technická závada vozidla;
+p12;201;nepøizpùsobení rychlosti;intenzitì (hustotì) provozu
+p12;202;nepøizpùsobení rychlosti;viditelnosti (mlha, soumrak, jízda v noci na tlumená svìtla apod.)
+p12;203;nepøizpùsobení rychlosti;vlastnostem vozidla a nákladu
+p12;204;nepøizpùsobení rychlosti;stavu vozovky (náledí, vıtluky, bláto, mokrı povrch apod.)
+p12;205;nepøizpùsobení rychlosti;dopravnì technickému stavu vozovky (zatáèka, klesání, stoupání, šíøka vozovky apod.)
+p12;206;pøekroèení pøedepsané rychlosti stanovené pravidly;
+p12;207;pøekroèení rychlosti stanovené dopravní znaèkou;
+p12;208;nepøizpùsobení rychlosti;boènímu, nárazovému vìtru (i pøi míjení, pøedjídìní vozidel)
+p12;209;jinı druh nepøimìøené rychlosti;
+p12;301;pøedjídìní;vpravo
+p12;302;pøedjídìní ;bez dostateèného boèního odstupu
+p12;303;pøedjídìní;bez dostateèného rozhledu (v nepøehledné zatáèce nebo její blízkosti, pøed vrcholem stoupání apod.)
+p12;304;pøi pøedjídìní;došlo k ohroení protijedoucího øidièe vozidla (špatnı odhad vzdálenosti potøebné k pøedjetí apod.)
+p12;305;pøi pøedjídìní;došlo k ohroení pøedjídìného øidièe vozidla (vynucené zaøazení, pøedjídìnı øidiè musel prudce brzdit, mìnit smìr jízdy apod.)
+p12;306;pøedjídìní;vlevo vozidla odboèujícího vlevo
+p12;307;pøedjídìní;v místech, kde je to zakázáno dopravní znaèkou
+p12;308;pøi pøedjídìní;byla pøejeta podélná èára souvislá
+p12;309;bránìní v pøedjídìní;
+p12;310;pøehlédnutí ji pøedjídìjícícho soubìnì jedoucího vozidla;
+p12;311;jinı druh nesprávného pøedjídìní;
+p12;401;"jízda na ""èervenou"" 3-barevného semaforu";
+p12;402;proti pøíkazu dopravní znaèky ;STÙJ DEJ PØEDNOST
+p12;403;proti pøíkazu dopravní znaèky ;DEJ PØEDNOST
+p12;404;vozidlu pøijídìjícímu zprava;
+p12;405;pøi odboèování vlevo;
+p12;406;tramvají, která odboèuje;
+p12;407;protijedoucímu vozidlu pøi objídìní pøekáky;
+p12;408;pøi zaøazování do proudu jedoucích vozidel ze stanice, místa zastavení nebo stání;
+p12;409;pøi vjídìní na silnici;
+p12;410;pøi otáèení nebo couvání;
+p12;411;pøi pøejídìní z jednoho jízdního pruhu do druhého;
+p12;412;chodci na vyznaèeném pøechodu;
+p12;413;pøi odboèování vlevo;soubìnì jedoucímu vozidlu
+p12;414;jiné nedání pøednosti;
+p12;501;jízda po nesprávné stranì vozovky, vjetí do protismìru;
+p12;502;vyhıbání bez dostateèného boèního odstupu (vùle);
+p12;503;nedodrení bezpeèné vzdálenosti za vozidlem;
+p12;504;nesprávné otáèení nebo couvání ;
+p12;505;chyby pøi udání smìru jízdy;
+p12;506;bezohledná, agresivní, neohleduplná jízda;
+p12;507;náhlé bezdùvodné sníení rychlosti jízdy, zabrzdìní nebo zastavení ;
+p12;508;øidiè se plnì nevìnoval øízení vozidla;
+p12;509;samovolné rozjetí nezajištìného vozidla;
+p12;510;vjetí na nezpevnìnou komunikaci;
+p12;511;nezvládnutí øízení vozidla;
+p12;512;jízda (vjetí) jednosmìrnou ulicí, silnicí (v protismìru);
+p12;513;nehoda v dùsledku  pouití (policií) prostøedkù k násilnému zastavení vozidla (zastavovací pásy, zábrana, vozidlo atp.);
+p12;514;nehoda v dùsledku pouití sluební zbranì (policií);
+p12;515;nehoda pøi provádìní sluebního zákroku (pronásledování pachatele atd.);
+p12;516;jinı druh nesprávného zpùsobu jízdy;
+p12;601;závada øízení;
+p12;602;závada provozní brzdy;
+p12;603;neúèinná nebo nefungující parkovací brzda;
+p12;604;opotøebení bìhounu pláštì pod stanovenou mez;
+p12;605;defekt pneumatiky zpùsobenı prùrazem nebo náhlım únikem vzduchu;
+p12;606;závada osvìtlovací soustavy vozidla (neúèinná, chybìjící, zneèištìná apod.);
+p12;607;nepøipojená nebo poškozená spojovací hadice pro bzrdìní pøípojného vozidla;
+p12;608;nesprávné uloení nákladu;
+p12;609;upadnutí, ztráta kola vozidla (i rezervního);
+p12;610;zablokování kol v dùsledku mechanické závady vozidla (zadøenı motor, pøevodovka, rozvodovka, spadlı øetìz apod.);
+p12;611;lom závìsu kola, pruiny;
+p12;612;nezajištìná nebo poškozená boènice (i u pøívìsu);
+p12;613;závada závìsu pro pøívìs;
+p12;614;utrená spojovací høídel;
+p12;615;jiná technická závada (vztahuje se i na pøípojná vozidla);
+p15;1;dlaba;
+p15;2;ivice;
+p15;3;beton;
+p15;4;panely;
+p15;5;štìrk;
+p15;6;jinı nezpevnìnı povrch;
+p16;1;povrch suchı;nezneèištìnı
+p16;2;povrch suchı;zneèištìnı (písek, prach, listí, štìrk atd.)
+p16;3;povrch mokrı;
+p16;4;na vozovce je bláto;
+p16;5;na vozovce je náledí, ujetı sníh ; - posypané
+p16;6;na vozovce je náledí, ujetı sníh ; - neposypané
+p16;7;na vozovce je rozlitı olej, nafta apod. ;
+p16;8;souvislá snìhová vrstva, rozbøedlı sníh;
+p16;9;náhlá zmìna stavu vozovky;(námraza na mostu, místní náledí)
+p16;0;jinı stav povrchu vozovky v dobì nehody;
+p17;1;dobrı, bez závad;
+p17;2;podélnı sklon vyšší ne 8 '%;
+p17;3;nesprávnì umístìná, zneèištìná, chybìjící dopravní znaèka;
+p17;4;zvlnìnı povrch v podélném smìru;
+p17;5;souvislé vıtluky;
+p17;6;nesouvislé vıtluky;
+p17;7;trvalé zúení vozovky;
+p17;8;pøíèná struka, hrbol, vystouplé, propadlé kolejnice;
+p17;9;neoznaèená nebo nedostateènì oznaèená pøekáka na komunikaci;
+p17;10;pøechodná uzavírka jednoho jízdního pruhu;
+p17;11;pøechodná uzavírka komunikace nebo jízdního pásu;
+p17;12;jinı (neuvedenı) stav nebo závada komunikace;
+p18;1;neztíené;
+p18;2;mlha;
+p18;3;na poèátku deštì, slabı déš, mrholení apod.;
+p18;4;déš;
+p18;5;snìení;
+p18;6;tvoøí se námraza, náledí;
+p18;7;nárazovı vítr (boèní, vichøice apod.);
+p18;0;jiné ztíené;
+p19;1;ve dne;viditelnost nezhoršená vlivem povìtrnostních podmínek
+p19;2;ve dne;zhoršená viditelnost (svítání, soumrak)
+p19;3;ve dne;zhoršená viditelnost vlivem povìtrnostních podmínek (mlha, snìení, déš apod.)
+p19;4;v noci;s veøejnım osvìtlením, viditelnost nezhoršená vlivem povìtrnostních podmínek
+p19;5;v noci;s veøejnım osvìtlením, zhoršená viditelnost vlivem povìtrnostních podmínek (mlha, déš, snìení apod.)
+p19;6;v noci;bez veøejného osvìtlení, viditelnost nezhoršená vlivem povìtrnostních podmínek
+p19;7;v noci;bez veøejného osvìtlení, viditelnost zhoršená vlivem povìtrnostních podmínek (mlha, déš, snìení apod.)
+p20;1;dobré;
+p20;2;špatné;vlivem okolní zástavby (budovy, plné zábradlí apod.)
+p20;3;špatné;vlivem prùbìhu komunikace, nebo podéllného profilu nebo trasování (nepøehlednı vrchol stoupání, záøez komunikace apod.)
+p20;4;špatné;vlivem vegetace - trvale (stromy, keøe apod.)
+p20;5;špatné;vlivem vegetace - pøechodnì (tráva, obilí apod.)
+p20;6;vıhled zakryt stojícím vozidlem;
+p20;0;jiné špatné;
+p21;1;dvoupruhová;
+p21;2;tøípruhová;
+p21;3;ètyøpruhová s dìlícím pásem;
+p21;4;ètyøpruhová s dìlící èarou;
+p21;5;vícepruhová;
+p21;6;rychlostní komunikace;
+p21;0;ádná z uvedenıch;
+p22;1;na jízdním pruhu;
+p22;2;na odstavném pruhu;
+p22;3;na krajnici;
+p22;4;na odboèovacím, pøipojovacím pruhu;
+p22;5;na pruhu pro pomalá vozidla;
+p22;6;na chodníku nebo ostrùvku;
+p22;7;na kolejích tramvaje;
+p22;8;mimo komunikaci;
+p22;9;na stezce pro cyklisty;
+p22;0;ádné z uvedenıch;
+p23;1;policistou nebo jinım povìøenım orgánem;
+p23;2;svìtelnım signalizaèním zaøízením;
+p23;3;místní úprava ;
+p23;0;ádnı zpùsob øízení provozu;
+p24;1;svìtelná signalilzace pøepnuta na pøerušovanou lutou;
+p24;2;svìtelná signalizace mimo provoz;
+p24;3;pøednost vyznaèena dopravními znaèkami;
+p24;4;pøednost vyznaèena pøenosnımi dopravními znaèkami nebo zaøízením;
+p24;5;pøednost nevyznaèena - vyplıvá z pravidel silníèního provozu;
+p24;0;ádná místní úprava;
+p27;1;pøechod pro chodce;
+p27;2;v blízkosti pøechodu pro chodce (do vzdálenosti 20 m);
+p27;3;eleznièní pøejezd nezabezpeèenı závorami ani svìtelnım vıstranım zaøízením ;
+p27;4;eleznièní pøejezd zabezpeèenı;
+p27;5;most, nadjezd, podjezd, tunel;
+p27;6;zastávka autobusu, trolejbusu, tramvaje s nástup. ostrùvkem;
+p27;7;zastávka tramvaje, autobusu, trolejbusu bez nástup. ostrùvku;
+p27;8;vıjezd z parkovištì, lesní cesty apod.  (pol. 36 = 7,8);
+p27;9;èerpadlo pohonnıch hmot;
+p27;10;parkovištì pøiléhající ke komunikaci;
+p27;0;ádné nebo ádné z uvedenıch;
+p28;1;pøímı úsek;
+p28;2;pøímı úsek po projetí zatáèkou ;(do vzdálenosti cca 100 m od optického konce zatáèky)
+p28;3;zatáèka;
+p28;4;køiovatka prùseèná - ètyøramenná;
+p28;5;køiovatka styková - tøíramenná;
+p28;6;køiovatka pìti a víceramenná;
+p28;7;kruhovı objezd;
+p29;1;mu;
+p29;2;ena;
+p29;3;dítì (do 15 let);
+p29;4;skupina dìtí;
+p29;5;jiná skupina;
+p29a;1;Ano;
+p29a;2;Ne;
+p29b;1;Ano;
+p29b;2;Ne;
+p30;1;dobrı ;ádné nepøíznivé okolnosti nebyly zjištìny
+p30;2;nepozornost, roztritost;
+p30;3;pod vlivem lékù, narkotik;
+p30;4;;
+p30;5;fyzická indispozice ;(nemoc, nevolnost, sníená pohyblivost apod.)
+p30;6;pokus o sebevradu, sebevrada;
+p30;7;invalida;
+p30;8;jinı neuvedenı stav;
+p30;9;;
+p30;0;nezjištìno;
+p30a;1;ano;obsah alkoholu v krvi do 0,24 ‰
+p30a;2;ne;
+p30a;3;ano;obsah alkoholu v krvi od 0,24 ‰ do 0,5 ‰
+p30a;4;odmítnuto;
+p30a;5;;
+p30a;6;ano;obsah alkoholu v krvi od 0,5 ‰ do 0,8 ‰
+p30a;7;ano;obsah alkoholu v krvi od 0,8 ‰ do 1,0 ‰
+p30a;8;ano;obsah alkoholu v krvi od 1,0 ‰ do 1,5 ‰
+p30a;9;ano;obsah alkoholu v krvi 1,5 ‰ a více
+p30a;0;nezjišováno;
+p30b;1;THC (tetrahydrokanabinol);
+p30b;2;AMP (amfetamin);
+p30b;3;MET (metamfetamin);
+p30b;4;OPI (opiáty);
+p30b;5;benzodiazepin;
+p30b;6;jiné;
+p30b;7;odmítnuto;
+p30b;8;nezjišováno;
+p30b;0;ne;
+p31;1;správné, pøimìøené ;
+p31;2;špatnı odhad vzdálenosti a rychlosti vozidla;
+p31;3;náhlé vstoupení do vozovky; z chodníku, krajnice
+p31;4;náhlé vstoupení do vozovky ; z nástupního nebo dìlícího ostrùvku
+p31;5;zmatené, zbrklé , nerozhodné jednání ;
+p31;6;náhlá zmìna smìru chùze;
+p31;7;náraz do vozidla z boku;
+p31;8;hra dìtí na vozovce;
+p32;1;vstup chodce;na signál VOLNO
+p32;2;vstup chodce;na signál STÙJ
+p32;3;vstup chodce;do vozovky v blízkosti pøechodu (cca do 20 m)
+p32;4;pøecházení;po vyznaèeném pøechodu
+p32;5;pøecházení ;tìsnì pøed nebo za vozidlem stojícím v zastávce
+p32;6;pøecházení ;tìsnì pøed nebo za vozidlem parkujícím
+p32;7;chùze,;stání na chodníku
+p32;8;chùze;po správné stranì
+p32;9;chùze ;po nesprávné stranì
+p32;10;pøecházení ;mimo pøechod (20 a více metrù od pøechodu)
+p32;0;jiná situace;
+p33c;1;mu;
+p33c;2;ena;
+p33c;3;chlapec (do 15 let);
+p33c;4;dívka (do 15 let);
+p33f;1;nebylo tøeba poskytnout;
+p33f;2;poskytnuta osádkou vozidel zúèastnìnıch na nehodì;
+p33f;3;jinou osobou;
+p33f;4;leteckou záchrannou slubou;
+p33f;5;vozidlem RZP;
+p33f;6;neybyla poskytnuta, ale bylo nutno poskytnout;
+p33g;1;usmrcení;
+p33g;2;tìké zranìní;
+p33g;3;lehké zranìní;
+p33g;4;bez zranìní;
+p35;00;mimo køiovatku;
+p35;10;na kiovatce;jedná-li se o køíení místních komunikací, úèelovıch komunikací nebo jde o mezilehlou køiovatku (na sledovaném úseku ve sledovanıch mìstech)
+p35;11-18;uvnitø zóny 1-8 pøedmìtné køiovatky;
+p35;19;na køiovatce;uvnitø hranic køiovatky definovanıch pro systém evidence nehod (zóna 9)
+p35;22-28;na vjezdové nebo vıjezdové èásti vìtve pøi mimoúrovòovém køíení;
+p35;29;mimo zónu 11-19 a 22-28;
+p36;0;dálnice;
+p36;1;silnice 1. tøídy;
+p36;2;silnice 2. tøídy;
+p36;3;silnice 3. tøídy;
+p36;4;uzel ;tj. køiovatka sledovaná ve vybranıch mìstech
+p36;5;komunikace sledovaná ;(ve vybranıch mìstech)
+p36;6;komunikace místní;
+p36;7;komunikace úèelová;polní a lesní cesty atd. 
+p36;8;komunikace úèelová;ostatní (parkovištì, odpoèívky apod.)
+p37;;vyplòuje se zleva a pouze jedná-li se o dálnici, silnici 1. - 3. tøídy;
+p37;;dálnice;èísla 01 a 99
+p37;;silnice 1. tøídy;èísla 01 a 99
+p37;;silnice 2. tøídy;èísla 101 a 999
+p37;;silnice 3. tøídy;4 - 6místná
+p39;1;silnice 1. tøídy;
+p39;2;silnice 2. tøídy;
+p39;3;silnice 3. tøídy;
+p39;6;místní komunikace;
+p39;7;úèelová komunikace;
+p39;9;vìtev mimoúrovòové køiovatky;
+p44;2;motocykl (vèetnì sidecarù, skútrù apod.);
+p44;3;osobní automobil bez pøívìsu;
+p44;4;osobní automobil s pøívìsem;
+p44;5;nákladní automobil (vèetnì multikáry, autojeøábu, cisterny atd.);
+p44;6;nákladní automobil s pøívìsem;
+p44;7;nákladní automobil s návìsem;
+p44;8;autobus;
+p44;9;traktor (i s pøívìsem);
+p44;10;tramvaj  ;
+p44;11;trolejbus;
+p44;12;jiné motorové vozidlo ;(zemìdìlské, lesní, stavební stroje atd.)
+p44;13;jízdní kolo;
+p44;14;povoz, jízda na koni;
+p44;15;jiné nemotorové vozidlo;
+p44;16;vlak;
+p44;17;nezjištìno, øidiè ujel;
+p44;18;jinı druh vozidla;
+p44;18;kolobìka;
+p45a;1;ALFA-ROMEO;"osobní automobily
+nákladní automobily"
+p45a;2;AUDI;
+p45a;3;AVIA;
+p45a;4;BMW;
+p45a;5;CHEVROLET;
+p45a;6;CHRYSLER;
+p45a;7;CITROEN;
+p45a;8;DACIA;
+p45a;9;DAEWOO;
+p45a;10;DAF;
+p45a;11;DODGE;
+p45a;12;FIAT ;
+p45a;13;FORD;
+p45a;14;GAZ, VOLHA;
+p45a;15;FERRARI;
+p45a;16;HONDA;
+p45a;17;HYUNDAI;
+p45a;18;IFA;
+p45a;19;IVECO;
+p45a;20;JAGUAR;
+p45a;21;JEEP;
+p45a;22;LANCIA;
+p45a;23;LAND ROVER;
+p45a;24;LIAZ;
+p45a;25;MAZDA;
+p45a;26;MERCEDES;
+p45a;27;MITSUBISHI;
+p45a;28;MOSKVIÈ;
+p45a;29;NISSAN;
+p45a;30;OLTCIT;
+p45a;31;OPEL;
+p45a;32;PEUGEOT;
+p45a;33;PORSCHE;
+p45a;34;PRAGA;
+p45a;35;RENAULT;
+p45a;36;ROVER;
+p45a;37;SAAB;
+p45a;38;SEAT;
+p45a;39;ŠKODA;
+p45a;40;SCANIA;
+p45a;41;SUBARU;
+p45a;42;SUZUKI;
+p45a;43;TATRA;
+p45a;44;TOYOTA;
+p45a;45;TRABANT;
+p45a;46;VAZ;
+p45a;47;VOLKSWAGEN;
+p45a;48;VOLVO;
+p45a;49;WARTBURG;
+p45a;50;ZASTAVA;
+p45a;51;AGM;
+p45a;52;ARO;
+p45a;53;AUSTIN;
+p45a;54;BARKAS;
+p45a;55;DAIHATSU;
+p45a;56;DATSUN;
+p45a;57;DESTACAR;
+p45a;58;ISUZU;
+p45a;59;KAROSA;
+p45a;60;KIA;
+p45a;61;LUBLIN;
+p45a;62;MAN;
+p45a;63;MASERATI;
+p45a;64;MULTICAR;
+p45a;65;PONTIAC;
+p45a;66;ROSS;
+p45a;67;SIMCA;
+p45a;68;SSANGYONG;
+p45a;69;TALBOT;
+p45a;70;TAZ;
+p45a;71;ZAZ;
+p45a;3;AVIA;autobusy
+p45a;10;DAF;
+p45a;12;FIAT ;
+p45a;13;FORD;
+p45a;19;IVECO;
+p45a;26;MERCEDES;
+p45a;35;RENAULT;
+p45a;39;ŠKODA;
+p45a;40;SCANIA;
+p45a;48;VOLVO;
+p45a;59;KAROSA;
+p45a;62;MAN;
+p45a;72;BOVA;
+p45a;73;IKARUS;
+p45a;74;NEOPLAN;
+p45a;75;OASA;
+p45a;76;RAF;
+p45a;77;SETRA;
+p45a;78;SOR;
+p45a;4;BMW;motocykly
+p45a;16;HONDA;
+p45a;32;PEUGEOT;
+p45a;42;SUZUKI;
+p45a;79;APRILIA;
+p45a;80;CAGIVA;
+p45a;81;ÈZ;
+p45a;82;DERBI;
+p45a;83;DUCATI;
+p45a;84;GILERA;
+p45a;85;HARLEY;
+p45a;86;HERO;
+p45a;87;HUSQVARNA;
+p45a;88;JAWA;
+p45a;89;KAWASAKI;
+p45a;90;KTM;
+p45a;91;MALAGUTI;
+p45a;92;MANET;
+p45a;93;MZ;
+p45a;94;PIAGGIO;
+p45a;95;SIMSON;
+p45a;96;VELOREX;
+p45a;97;YAMAHA;
+p45a;98;jiné vyrobené v ÈR;
+p45a;99;jiné vyrobené mimo ÈR;
+p45a;00;ádná z uvedenıch ;v poloce 44 je kód 09 a 18
+p45d;01;diesel;
+p45d;02;benzín;
+p45d;03;LPG;
+p45d;04;CNG;
+p45d;05;elektro;
+p45d;06;hybridní;
+p45d;07;vodík;
+p45d;00;nezjištìno/ádné;
+p45f;01;letní;
+p45f;02;zimní;
+p45f;03;celoroèní;
+p45f;00;nezjištìno;
+p47;;uvádí se poslední dvojèíslí roku vıroby motorového vozidla;
+p47;;"nelze-li zjistit, vyplòje se ""XX""";
+p48a;1;soukromé;nevyuívané k vıdìleèné èinnosti
+p48a;2;soukromé;vyuívané k vıdìleèné èinnosti
+p48a;3;soukromá organizace;(podnikatel, s.r.o., v.o.s., a.s., atd.)
+p48a;4;veøejná hromadná doprava;
+p48a;5;mìstská hromadná doprava;
+p48a;6;mezinárodní kamionová doprava;
+p48a;7;TAXI;
+p48a;8;státní podnik, státní organizace;
+p48a;9;registrované mimo území ÈR;
+p48a;10;zastupitelskı úøad;
+p48a;11;ministerstvo vnitra;
+p48a;12;policie ÈR;
+p48a;13;mìstská, obecní policie;
+p48a;14;soukromé bezpeènostní agentury;
+p48a;15;ministerstvo obrany;
+p48a;16;jiné;
+p48a;17;odcizené;
+p48a;18;vozidlo AUTOŠKOLY provádìjící vıcvik;
+p48a;19;hasièi;
+p48a;20;sanita RZS;
+p48a;21;sanita ostatní (ne RZS);
+p48a;00;nezjištìno;
+p49;1;ano;
+p49;0;ne;
+p50a;1;nedošlo k poáru;
+p50a;2;došlo k poáru;
+p50a;3;øidiè ujel; - zjištìn
+p50a;4;øidiè ujel (utekl); - nezjištìn
+p50a;0;ádná z uvedenıch;
+p50b;1;došlo k úniku pohonnıch hmot, oleje, chladícího média apod.;
+p50b;2;došlo k úniku jinıch nebezpeènıch látek; - pevnıch
+p50b;3;došlo k úniku jinıch nebezpeènıch látek; - kapalnıch
+p50b;4;došlo k úniku jinıch nebezpeènıch látek; - plynnıch
+p50b;0;ádné z uvedenıch;
+p51;1;nebylo tøeba uít násilí;
+p51;2;pouitím páèidel apod. ;
+p51;3;pouitím speciální vyprošovací techniky;
+p52;1;vozidlo jedoucí - ve mìru stanièení (na komunikaci);
+p52;2;vozidlo odstavené, parkující; - ve smìru stanièení (na komunikaci)
+p52;3;vozidlo jedoucí - proti smìru stanièení (na komunikaci);
+p52;4;vozidlo odstavené, parkující; - proti smìru stanièení (na komunikaci)
+p52;5;vozidlo jedoucí - na komunikaci bez stanièení;
+p52;6;vozidlo odstavené, parkující; - na komunikaci bez stanièení
+p52;10-99;zachycuje postavení vozidla pøi nehodì na køiovatce;
+p53;;vyplòuje se zprava a uvádí se škoda pouze na pøíslušném vozidle (nikoliv nákladù) ;ve stokorunách
+p55a;1;s øidièskım oprávnìním skupiny;A
+p55a;2;s øidièskım oprávnìním skupiny;B
+p55a;3;s øidièskım oprávnìním skupiny;C 
+p55a;4;s øidièskım oprávnìním skupiny;D
+p55a;5;s øidièskım oprávnìním skupiny;T
+p55a;6;s øidièskım oprávnìním skupiny;A a s omezením do 50 ccm
+p55a;7;bez pøíslušného øidièského oprávnìní;
+p55a;8;ostatní øidièi vozidel;(napø. cyklisté, vozkové, strojvedoucí atd.)
+p55a;9;nezjištìno, øidiè místo nehody opustil;(u p44 je kód 17, nebo u p50a je kód 4)
+p55a;0;nezjištìno ;(napø. u cizincù)
+p57;1;dobrı;ádné nepøíznivé okolnosti nebyly zjištìny
+p57;21;unaven, usnul, ;
+p57;22;náhlá fyzická indispozice;
+p57;3;pod vlivem;lékù, narkotik
+p57;4;pod vlivem;alkoholu, obsah alkoholu v krvi do 0,99 ‰
+p57;5;pod vlivem;alkoholu, obsah alkoholu v krvi 1 ‰ a více
+p57;6;nemoc, úraz apod. ;
+p57;7;invalida;
+p57;8;øidiè pøi jízdì zemøel (infarkt apod.);
+p57;9;pokus o sebevradu, sebevrada;
+p57;0;jinı nepøíznivı stav;
+p58;1;øidiè nebyl ovlivnìn;
+p58;2;oslnìn sluncem;
+p58;3;oslnìn svìtlomety jiného vozidla;
+p58;4;ovlivnìn jednáním jiného úèastníka silnièního provozu;
+p58;5;ovlivnìn pøi vyhıbání lesní zvìøí, domácímu zvíøectvu apod. ;
+p58;0;jiné ovlivnìní;
